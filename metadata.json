@@ -1,0 +1,6 @@
+{
+  "name": "AuraHealth",
+  "description": "Daily hygiene and wellness habit tracker, offline medical reference dictionary, symptom assessment guide, and home remedies encyclopedia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
